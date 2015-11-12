@@ -1,0 +1,10 @@
+/home/117bakup/daijun/MoneyCoolMonitor/log/TaskInfo.log {
+   nocompress
+   daily
+   copytruncate
+   create
+   ifempty
+   noolddir
+   rotate 3
+}
+
